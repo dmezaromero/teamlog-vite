@@ -2,8 +2,8 @@
 </script>
 
 <template>
-  <div>
-    Hi
+  <div id="app">
+    <router-view />
   </div>
 </template>
 
